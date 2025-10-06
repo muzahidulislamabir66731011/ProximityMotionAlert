@@ -49,9 +49,7 @@ Pull-requests welcome:
 - Replace buzzer with DFPlayer MP3 module for voice alerts  
 - Port to ESP32 & send MQTT “intruder” messages  
 …go wild!
-```
 
----
 
 ### 🛠️ Next Steps
 1. Create the repo on GitHub with the name `ProximityMotionAlert`.  
