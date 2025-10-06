@@ -1,8 +1,8 @@
 
-```markdown
 # 🚨 ProximityMotionAlert  
 *“Beep only when it’s coming at you.”*
-```
+---
+
 ## What it does
 A minimal Arduino sketch that  
 1. Reads distance with an HC-SR04 ultrasonic sensor.  
